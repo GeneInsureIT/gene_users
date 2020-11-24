@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "geneusers"
+    }
+  },
+  "defaultProject": "geneusers",
+  "cli": {
+    "analytics": false
+  }
 }
